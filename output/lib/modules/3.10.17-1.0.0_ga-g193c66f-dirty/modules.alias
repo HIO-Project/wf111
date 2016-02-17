@@ -1,0 +1,3 @@
+# Aliases extracted from modules themselves.
+alias sdio:c*v032Ad0008* unifi_sdio
+alias sdio:c*v032Ad0007* unifi_sdio
